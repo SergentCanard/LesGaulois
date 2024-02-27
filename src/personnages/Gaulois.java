@@ -16,4 +16,5 @@ public class Gaulois {
 		return "Gaulois [nom=" + nom + ", force=" + force + ", effetPotion=" + effetPotion + "]";
 	}
 	//page 10 du diapo Tp1
+	//mac connecté test
 }
